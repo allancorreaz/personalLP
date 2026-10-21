@@ -4,9 +4,8 @@ Landing page simples e direta para personal trainers, feita em **HTML e CSS puro
 
 Foi pensada como **modelo de venda**: o cliente troca textos, fotos, cor e o número do WhatsApp, e o site está no ar.
 
-**Demonstração:** `https://SEU-PROJETO.vercel.app` _(cole o link depois de publicar)_
-
-> Existe também a [Versão 2](https://github.com/SEU-USUARIO/landing-personal-trainer-v2), mais completa, em outro repositório.
+**Demonstração:** `[https://SEU-PROJETO.vercel.app](https://personaltrainer-chi.vercel.app/)`
+> Existe também a [Versão 2](https://github.com/allancorreaz/personalLP2), mais completa, em outro repositório.
 
 ---
 
